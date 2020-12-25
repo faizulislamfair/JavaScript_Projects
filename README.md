@@ -4,6 +4,6 @@ https://faizulislamfair.github.io/JavaScript_Projects/1-color-flipper/
 
 https://faizulislamfair.github.io/JavaScript_Projects/2-counter/
 
-https://faizulislamfair.github.io/JavaScript_Projects/3-review/
+https://faizulislamfair.github.io/JavaScript_Projects/3-reviews/
 
 
