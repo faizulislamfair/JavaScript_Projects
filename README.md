@@ -10,6 +10,9 @@ https://faizulislamfair.github.io/JavaScript_Projects/4-navbar/index.html
 
 https://faizulislamfair.github.io/JavaScript_Projects/5-sidebar/
 
+https://faizulislamfair.github.io/JavaScript_Projects/6-modal/
+
+
 
 
 
