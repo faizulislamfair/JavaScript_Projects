@@ -12,6 +12,9 @@ https://faizulislamfair.github.io/JavaScript_Projects/5-sidebar/
 
 https://faizulislamfair.github.io/JavaScript_Projects/6-modal/
 
+https://faizulislamfair.github.io/JavaScript_Projects/7-questions/
+
+
 
 
 
