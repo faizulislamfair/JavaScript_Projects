@@ -14,6 +14,9 @@ https://faizulislamfair.github.io/JavaScript_Projects/6-modal/
 
 https://faizulislamfair.github.io/JavaScript_Projects/7-questions/
 
+https://faizulislamfair.github.io/JavaScript_Projects/8-video/
+
+
 
 
 
